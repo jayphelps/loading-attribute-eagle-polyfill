@@ -15,7 +15,7 @@ Include the polyfill in your `<head>`, then you can add the `loading="eagle"` at
   <script src="https://unpkg.com/loading-attribute-eagle-polyfill/loading-attribute-eagle-polyfill.js"></script>
 </head>
 <body>
-  <!- Here's an example URL that artificially delays the src so you can see the proud Eagle ->
+  <!-- Here's an example URL that artificially delays the src so you can see the proud Eagle -->
   <img
     loading="eagle"
     src="https://deelay.me/2000/https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/other/cat_relaxing_on_patio_other/1800x1200_cat_relaxing_on_patio_other.jpg"
