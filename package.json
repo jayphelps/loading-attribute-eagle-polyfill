@@ -1,0 +1,19 @@
+{
+  "name": "loading-attribute-eagle-polyfill",
+  "version": "0.0.2",
+  "description": "loading=\"eagle\" attribute polyfill",
+  "main": "loading-attribute-eagle-polyfill.js",
+  "scripts": {
+    "test": "echo \"I would rather not.\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayphelps/loading-attribute-eagle-polyfill.git"
+  },
+  "author": "Jay Phelps <hello@jayphelps.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jayphelps/loading-attribute-eagle-polyfill/issues"
+  },
+  "homepage": "https://github.com/jayphelps/loading-attribute-eagle-polyfill#readme"
+}
