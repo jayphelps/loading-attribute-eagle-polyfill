@@ -1,7 +1,7 @@
 # 🇺🇸 🦅 loading-attribute-eagle-polyfill
 A polyfill for [`<img loading="eagle" />`](https://twitter.com/_jayphelps/status/1288701159713189888). Displays an America Eagle as the placeholder of the image while the your real images are still loading.
 
-<img src="https://www.publicdomainpictures.net/pictures/50000/velka/bald-eagle-and-a-flag.jpg" height="300" />
+<img src="https://www.publicdomainpictures.net/pictures/50000/velka/bald-eagle-and-a-flag.jpg" width="300" height="200" />
 
 ## Usage
 
